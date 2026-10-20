@@ -12,3 +12,18 @@ if szam % 2 == 0:
     print ("Páros")
 else:
     print("Páratlan")
+
+osztalyzat = float(input("Osztályzatod: "))
+
+if osztalyzat == 1:
+    print("elégtelen")
+elif osztalyzat == 2:
+    print("elégséges")
+elif osztalyzat == 3:
+    print("közepes")
+elif osztalyzat == 4:
+    print("jó")
+elif osztalyzat == 5:
+    print("jeles")
+else:
+    print("Hibás osztályzat")
