@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf9d4a54-f3c5-4690-8424-34334f301783" name="Changes" comment="Kész2">
+    <list default="true" id="cf9d4a54-f3c5-4690-8424-34334f301783" name="Changes" comment="Feladat variáció 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +76,7 @@
       <updated>1792501983361</updated>
       <workItem from="1792501984240" duration="2237000" />
       <workItem from="1792522490997" duration="4062000" />
-      <workItem from="1792526564533" duration="1873000" />
+      <workItem from="1792526564533" duration="3604000" />
     </task>
     <task id="LOCAL-00001" summary="Számolás kezdés">
       <option name="closed" value="true" />
@@ -213,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792528207678</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Feladat variáció 1">
+      <option name="closed" value="true" />
+      <created>1792528749455</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1792528749455</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,9 +253,10 @@
     <MESSAGE value="Jegy szazalek" />
     <MESSAGE value="Kész" />
     <MESSAGE value="Kész2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kész2" />
+    <MESSAGE value="Feladat variáció 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feladat variáció 1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Tendl_Attila_elagazasmetodus$main.coverage" NAME="main Coverage Results" MODIFIED="1792528413250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tendl_Attila_elagazasmetodus$main.coverage" NAME="main Coverage Results" MODIFIED="1792530103335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
