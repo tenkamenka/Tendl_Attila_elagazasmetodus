@@ -1,4 +1,4 @@
-#szam = 5 (eredetileg csak számot írtam, így is működött, de megnéztem a bekérést neten)
+
 szam = float(input("Adj meg egy számot: "))
 
 if szam > 0:
@@ -41,3 +41,12 @@ def korEll():
         print("Még nem vagy nagykorú")
 
 korEll()
+
+def belepes():
+    jelszo = input("Jelszo ")
+    if jelszo == "python123":
+        print("Sikeres belépés!")
+    else:
+        print("Hibás jelszó")
+
+belepes()
