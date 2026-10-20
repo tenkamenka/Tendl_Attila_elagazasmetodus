@@ -50,3 +50,13 @@ def belepes():
         print("Hibás jelszó")
 
 belepes()
+
+def paros_vizsgalat():
+    numb = float(input("Írj be megint egy számot"))
+    if numb % 2 == 0:
+        print("Páros")
+    else:
+        print("Páratlan")
+
+paros_vizsgalat()
+
