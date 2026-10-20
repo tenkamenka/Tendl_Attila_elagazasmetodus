@@ -31,16 +31,12 @@ else:
 def koszones():
     print("Szia! Örülök, hogy itt vagy!")
 
-koszones()
-
 def korEll():
     eletkor = float(input("Hány éves vagy?"))
     if eletkor >= 18:
         print("Nagykorú vagy!")
     else:
         print("Még nem vagy nagykorú")
-
-korEll()
 
 def belepes():
     jelszo = input("Jelszo ")
@@ -58,7 +54,7 @@ def paros_vizsgalat():
     else:
         print("Páratlan")
 
-paros_vizsgalat()
+
 
 def vizsgal(szam:float):
     if szam > 0:
@@ -67,9 +63,6 @@ def vizsgal(szam:float):
         print("Negatív szám")
     else:
         print("Nulla")
-
-szam = float(input("Adj meg egy számot: "))
-vizsgal(szam)
 
 def belepes():
     felhasznalo = input("Felhasználó név:")
@@ -82,8 +75,6 @@ def belepes():
 
     else:
         print("Ismeretlen felhasznló")
-
-belepes()
 
 def jegy(szazalek):
     if szazalek < 0 or szazalek > 100:
@@ -98,6 +89,18 @@ def jegy(szazalek):
         print("Jó")
     else:
         print("Jeles")
+
+
+koszones()
+
+korEll()
+
+paros_vizsgalat()
+
+szam = float(input("Adj meg egy számot: "))
+vizsgal(szam)
+
+belepes()
 
 szazalek = float(input("Add meg a százalékot"))
 jegy(szazalek)
