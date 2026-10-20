@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf9d4a54-f3c5-4690-8424-34334f301783" name="Changes" comment="Belépésv2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cf9d4a54-f3c5-4690-8424-34334f301783" name="Changes" comment="Kész">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +66,7 @@
       <updated>1792501983361</updated>
       <workItem from="1792501984240" duration="2237000" />
       <workItem from="1792522490997" duration="4062000" />
-      <workItem from="1792526564533" duration="472000" />
+      <workItem from="1792526564533" duration="1156000" />
     </task>
     <task id="LOCAL-00001" summary="Számolás kezdés">
       <option name="closed" value="true" />
@@ -157,7 +156,31 @@
       <option name="project" value="LOCAL" />
       <updated>1792525724485</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Jegy szazalek">
+      <option name="closed" value="true" />
+      <created>1792527290553</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1792527290553</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Jegy szazalek">
+      <option name="closed" value="true" />
+      <created>1792527365333</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1792527365333</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Kész">
+      <option name="closed" value="true" />
+      <created>1792527441386</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1792527441386</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,7 +208,9 @@
     <MESSAGE value="Páros szám metóduson kívül" />
     <MESSAGE value="Belépés" />
     <MESSAGE value="Belépésv2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Belépésv2" />
+    <MESSAGE value="Jegy szazalek" />
+    <MESSAGE value="Kész" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kész" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -199,6 +224,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Tendl_Attila_elagazasmetodus$main.coverage" NAME="main Coverage Results" MODIFIED="1792526730702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tendl_Attila_elagazasmetodus$main.coverage" NAME="main Coverage Results" MODIFIED="1792527318239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
