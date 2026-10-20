@@ -7,3 +7,8 @@ elif szam < 0:
     print("Negatív szám")
 else:
     print("Nulla")
+
+if szam % 2 == 0:
+    print ("Páros")
+else:
+    print("Páratlan")
