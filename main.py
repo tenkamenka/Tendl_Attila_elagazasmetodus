@@ -1,7 +1,8 @@
-szam = 5
+#szam = 5 (eredetileg csak számot írtam, így is működött, de megnéztem a bekérést neten)
+szam = float(input("Adj meg egy számot: "))
 
 if szam > 0:
-    print("Pozitav szám")
+    print("Pozitív szám")
 elif szam < 0:
     print("Negatív szám")
 else:
