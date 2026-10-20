@@ -60,7 +60,7 @@
 #
 # paros_vizsgalat()
 
-def vizsgal(szam):
+def vizsgal(szam:float):
     if szam > 0:
         print("Pozitív szám")
     elif szam < 0:
@@ -71,4 +71,13 @@ def vizsgal(szam):
 szam = float(input("Adj meg egy számot: "))
 vizsgal(szam)
 
+def belepes():
+    felhasznalo = input("Felhasználó név:")
+    jelszo = input("Jelszó:")
+    if felhasznalo == "attila" and jelszo == "python":
+        print("Sikeres belépés")
+    else:
+        print("Helytelen adatok")
+
+belepes()
 
