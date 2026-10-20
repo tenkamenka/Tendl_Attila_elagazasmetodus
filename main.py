@@ -73,11 +73,15 @@ vizsgal(szam)
 
 def belepes():
     felhasznalo = input("Felhasználó név:")
-    jelszo = input("Jelszó:")
-    if felhasznalo == "attila" and jelszo == "python":
-        print("Sikeres belépés")
+    if felhasznalo == "attila":
+        jelszo = input("Jelszó:")
+        if jelszo == "python":
+            print("Sikeres belépés")
+        else:
+            print("Hibás jellszó")
+
     else:
-        print("Helytelen adatok")
+        print("Ismeretlen felhasznló")
 
 belepes()
 
