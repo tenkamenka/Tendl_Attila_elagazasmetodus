@@ -27,3 +27,17 @@ elif osztalyzat == 5:
     print("jeles")
 else:
     print("Hibás osztályzat")
+
+def koszones():
+    print("Szia! Örülök, hogy itt vagy!")
+
+koszones()
+
+def korEll():
+    eletkor = float(input("Hány éves vagy?"))
+    if eletkor >= 18:
+        print("Nagykorú vagy!")
+    else:
+        print("Még nem vagy nagykorú")
+
+korEll()
