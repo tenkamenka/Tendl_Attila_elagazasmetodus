@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf9d4a54-f3c5-4690-8424-34334f301783" name="Changes" comment="Belépésv2" />
+    <list default="true" id="cf9d4a54-f3c5-4690-8424-34334f301783" name="Changes" comment="Belépésv2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tenkamenka&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tenkamenka/Tendl_Attila_elagazasmetodus.git&quot;,
+    &quot;accountId&quot;: &quot;fff1dc68-e459-4d65-9b77-45d2884af713&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
   &quot;fromUser&quot;: false
@@ -33,7 +48,7 @@
     "git-widget-placeholder": "master",
     "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "FeaturesTrainerSettingsPanel"
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -51,7 +66,8 @@
       <option name="presentableId" value="Default" />
       <updated>1792501983361</updated>
       <workItem from="1792501984240" duration="2237000" />
-      <workItem from="1792522490997" duration="3026000" />
+      <workItem from="1792522490997" duration="4062000" />
+      <workItem from="1792526564533" duration="472000" />
     </task>
     <task id="LOCAL-00001" summary="Számolás kezdés">
       <option name="closed" value="true" />
@@ -133,11 +149,30 @@
       <option name="project" value="LOCAL" />
       <updated>1792525514848</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Belépésv2">
+      <option name="closed" value="true" />
+      <created>1792525724485</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1792525724485</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Számolás kezdés" />
@@ -152,7 +187,18 @@
     <MESSAGE value="Belépésv2" />
     <option name="LAST_COMMIT_MESSAGE" value="Belépésv2" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Tendl_Attila_elagazasmetodus$main.coverage" NAME="main Coverage Results" MODIFIED="1792525486874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tendl_Attila_elagazasmetodus$main.coverage" NAME="main Coverage Results" MODIFIED="1792526730702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

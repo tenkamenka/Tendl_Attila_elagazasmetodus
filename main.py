@@ -60,28 +60,44 @@
 #
 # paros_vizsgalat()
 
-def vizsgal(szam:float):
-    if szam > 0:
-        print("Pozitív szám")
-    elif szam < 0:
-        print("Negatív szám")
+# def vizsgal(szam:float):
+#     if szam > 0:
+#         print("Pozitív szám")
+#     elif szam < 0:
+#         print("Negatív szám")
+#     else:
+#         print("Nulla")
+#
+# szam = float(input("Adj meg egy számot: "))
+# vizsgal(szam)
+#
+# def belepes():
+#     felhasznalo = input("Felhasználó név:")
+#     if felhasznalo == "attila":
+#         jelszo = input("Jelszó:")
+#         if jelszo == "python":
+#             print("Sikeres belépés")
+#         else:
+#             print("Hibás jellszó")
+#
+#     else:
+#         print("Ismeretlen felhasznló")
+#
+# belepes()
+
+def jegy(szazalek):
+    if szazalek < 0 or szazalek > 100:
+        print("Hibás százalék!")
+    elif szazalek < 40:
+        print("Elégtelen")
+    elif szazalek < 55:
+        print("Elégésges")
+    elif szazalek < 70:
+        print("Közepes")
+    elif szazalek < 85:
+        print("Jó")
     else:
-        print("Nulla")
+        print("Jeles")
 
-szam = float(input("Adj meg egy számot: "))
-vizsgal(szam)
-
-def belepes():
-    felhasznalo = input("Felhasználó név:")
-    if felhasznalo == "attila":
-        jelszo = input("Jelszó:")
-        if jelszo == "python":
-            print("Sikeres belépés")
-        else:
-            print("Hibás jellszó")
-
-    else:
-        print("Ismeretlen felhasznló")
-
-belepes()
-
+szazalek = float(input("Add meg a százalékot"))
+jegy(szazalek)
